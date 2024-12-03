@@ -23,6 +23,9 @@ body{
  .nav-link{
     color: #222222 !important;
  }
+ .color{
+   background-color: white;
+ }
  /* search box*/
  
 
